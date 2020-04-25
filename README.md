@@ -1,6 +1,7 @@
 AULWindows
 --------------------------------------------
 author: Stephanus Bagus Saputra
+
 email: wiefung@sbskomputer.net
 --------------------------------------------
 
